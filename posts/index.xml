@@ -3,7 +3,15 @@
         <title>All Posts - My New Hugo Site</title>
         <link>https://haonan-code.github.io/posts/</link>
         <description>All Posts | My New Hugo Site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 30 May 2024 01:28:00 &#43;0800</lastBuildDate><atom:link href="https://haonan-code.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 30 May 2024 02:17:03 &#43;0800</lastBuildDate><atom:link href="https://haonan-code.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Hugo搭建过程</title>
+    <link>https://haonan-code.github.io/posts/hugo%E6%90%AD%E5%BB%BA%E8%BF%87%E7%A8%8B/</link>
+    <pubDate>Thu, 30 May 2024 02:17:03 &#43;0800</pubDate>
+    <author>xxxx</author>
+    <guid>https://haonan-code.github.io/posts/hugo%E6%90%AD%E5%BB%BA%E8%BF%87%E7%A8%8B/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
     <title>My First Post</title>
     <link>https://haonan-code.github.io/posts/my-first-post/</link>
     <pubDate>Thu, 30 May 2024 01:28:00 &#43;0800</pubDate>
