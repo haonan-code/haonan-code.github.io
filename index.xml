@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>My New Hugo Site</title>
+        <title></title>
         <link>https://haonan-code.github.io/</link>
-        <description>This is my cool site</description>
+        <description>This is my cool Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 30 May 2024 02:17:03 &#43;0800</lastBuildDate>
             <atom:link href="https://haonan-code.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>Hugo搭建过程</title>
     <link>https://haonan-code.github.io/posts/hugo%E6%90%AD%E5%BB%BA%E8%BF%87%E7%A8%8B/</link>
     <pubDate>Thu, 30 May 2024 02:17:03 &#43;0800</pubDate>
-    <author>xxxx</author>
+    <author>Author</author>
     <guid>https://haonan-code.github.io/posts/hugo%E6%90%AD%E5%BB%BA%E8%BF%87%E7%A8%8B/</guid>
     <description><![CDATA[]]></description>
 </item>
@@ -17,7 +17,7 @@
     <title>My First Post</title>
     <link>https://haonan-code.github.io/posts/my-first-post/</link>
     <pubDate>Thu, 30 May 2024 01:28:00 &#43;0800</pubDate>
-    <author>xxxx</author>
+    <author>Author</author>
     <guid>https://haonan-code.github.io/posts/my-first-post/</guid>
     <description><![CDATA[]]></description>
 </item>
@@ -25,7 +25,7 @@
     <title>Test</title>
     <link>https://haonan-code.github.io/posts/test/</link>
     <pubDate>Thu, 30 May 2024 01:22:26 &#43;0800</pubDate>
-    <author>xxxx</author>
+    <author>Author</author>
     <guid>https://haonan-code.github.io/posts/test/</guid>
     <description><![CDATA[MyHugoBlog testtesttest]]></description>
 </item>
